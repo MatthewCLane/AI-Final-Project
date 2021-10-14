@@ -1,0 +1,67 @@
+Epoch 1/30
+2021-10-13 16:37:17.641880: W tensorflow/core/framework/cpu_allocator_impl.cc:80] Allocation of 163840000 exceeds 10% of free system memory.
+2021-10-13 16:37:18.276305: W tensorflow/core/framework/cpu_allocator_impl.cc:80] Allocation of 163840000 exceeds 10% of free system memory.
+  1/163 [..............................] - ETA: 6:23 - loss: 11.9796 - acc: 0.21882021-10-13 16:37:19.199642: W tensorflow/core/framework/cpu_allocator_impl.cc:80] Allocation of 163840000 exceeds 10% of free system memory.
+2021-10-13 16:37:19.809238: W tensorflow/core/framework/cpu_allocator_impl.cc:80] Allocation of 163840000 exceeds 10% of free system memory.
+  2/163 [..............................] - ETA: 4:12 - loss: 62.5860 - acc: 0.32812021-10-13 16:37:20.764288: W tensorflow/core/framework/cpu_allocator_impl.cc:80] Allocation of 163840000 exceeds 10% of free system memory.
+163/163 [==============================] - 272s 2s/step - loss: 3.7805 - acc: 0.5815 - val_loss: 0.7267 - val_acc: 0.7500
+Epoch 2/30
+163/163 [==============================] - 272s 2s/step - loss: 0.7006 - acc: 0.7000 - val_loss: 0.6570 - val_acc: 0.7612
+Epoch 3/30
+163/163 [==============================] - 253s 2s/step - loss: 0.7190 - acc: 0.6915 - val_loss: 0.7167 - val_acc: 0.7548
+Epoch 4/30
+163/163 [==============================] - 253s 2s/step - loss: 0.6548 - acc: 0.7178 - val_loss: 0.8715 - val_acc: 0.6635
+Epoch 5/30
+163/163 [==============================] - 251s 2s/step - loss: 0.6113 - acc: 0.7404 - val_loss: 0.6564 - val_acc: 0.7853
+Epoch 6/30
+163/163 [==============================] - 250s 2s/step - loss: 0.6090 - acc: 0.7423 - val_loss: 0.9689 - val_acc: 0.6907
+Epoch 7/30
+163/163 [==============================] - 252s 2s/step - loss: 0.5830 - acc: 0.7487 - val_loss: 0.9288 - val_acc: 0.6827
+Epoch 8/30
+163/163 [==============================] - 248s 2s/step - loss: 0.5612 - acc: 0.7625 - val_loss: 0.7015 - val_acc: 0.7724
+Epoch 9/30
+163/163 [==============================] - 247s 2s/step - loss: 0.5532 - acc: 0.7617 - val_loss: 0.7390 - val_acc: 0.7564
+Epoch 10/30
+163/163 [==============================] - 4917s 30s/step - loss: 0.5530 - acc: 0.7688 - val_loss: 0.5936 - val_acc: 0.8446
+Epoch 11/30
+163/163 [==============================] - 295s 2s/step - loss: 0.5331 - acc: 0.7759 - val_loss: 0.6238 - val_acc: 0.8494
+Epoch 12/30
+163/163 [==============================] - 291s 2s/step - loss: 0.5431 - acc: 0.7694 - val_loss: 0.4614 - val_acc: 0.8622
+Epoch 13/30
+163/163 [==============================] - 294s 2s/step - loss: 0.5595 - acc: 0.7646 - val_loss: 0.6851 - val_acc: 0.7788
+Epoch 14/30
+163/163 [==============================] - 316s 2s/step - loss: 0.5358 - acc: 0.7745 - val_loss: 0.4876 - val_acc: 0.8478
+Epoch 15/30
+163/163 [==============================] - 316s 2s/step - loss: 0.5241 - acc: 0.7809 - val_loss: 0.6678 - val_acc: 0.8381
+Epoch 16/30
+163/163 [==============================] - 313s 2s/step - loss: 0.5108 - acc: 0.7832 - val_loss: 0.6189 - val_acc: 0.8381
+Epoch 17/30
+163/163 [==============================] - 310s 2s/step - loss: 0.5024 - acc: 0.7859 - val_loss: 0.9743 - val_acc: 0.7163
+Epoch 18/30
+163/163 [==============================] - 318s 2s/step - loss: 0.4949 - acc: 0.7899 - val_loss: 0.7824 - val_acc: 0.8109
+Epoch 19/30
+163/163 [==============================] - 317s 2s/step - loss: 0.5018 - acc: 0.7832 - val_loss: 0.8149 - val_acc: 0.7772
+Epoch 20/30
+163/163 [==============================] - 307s 2s/step - loss: 0.5029 - acc: 0.7891 - val_loss: 0.8955 - val_acc: 0.7404
+Epoch 21/30
+163/163 [==============================] - 305s 2s/step - loss: 0.5061 - acc: 0.7837 - val_loss: 0.6992 - val_acc: 0.8333
+Epoch 22/30
+163/163 [==============================] - 305s 2s/step - loss: 0.5051 - acc: 0.7860 - val_loss: 0.6419 - val_acc: 0.8446
+Epoch 23/30
+163/163 [==============================] - 306s 2s/step - loss: 0.4869 - acc: 0.7901 - val_loss: 0.5753 - val_acc: 0.8429
+Epoch 24/30
+163/163 [==============================] - 314s 2s/step - loss: 0.4895 - acc: 0.7916 - val_loss: 0.6471 - val_acc: 0.8333
+Epoch 25/30
+163/163 [==============================] - 313s 2s/step - loss: 0.4902 - acc: 0.7889 - val_loss: 0.5250 - val_acc: 0.8702
+Epoch 26/30
+163/163 [==============================] - 281s 2s/step - loss: 0.4819 - acc: 0.7901 - val_loss: 0.5650 - val_acc: 0.8333
+Epoch 27/30
+163/163 [==============================] - 261s 2s/step - loss: 0.4870 - acc: 0.7887 - val_loss: 0.6266 - val_acc: 0.8285
+Epoch 28/30
+163/163 [==============================] - 258s 2s/step - loss: 0.4913 - acc: 0.7857 - val_loss: 0.6952 - val_acc: 0.7660
+Epoch 29/30
+163/163 [==============================] - 264s 2s/step - loss: 0.5010 - acc: 0.7897 - val_loss: 0.5639 - val_acc: 0.8702
+Epoch 30/30
+163/163 [==============================] - 263s 2s/step - loss: 0.4859 - acc: 0.7876 - val_loss: 0.5698 - val_acc: 0.8125
+
+Process finished with exit code 0
