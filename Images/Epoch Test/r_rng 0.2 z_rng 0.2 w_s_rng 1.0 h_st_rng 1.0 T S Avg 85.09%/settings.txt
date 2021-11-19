@@ -1,0 +1,5 @@
+rotation_range: 0.2
+zoom_range: 0.2
+width_shift_range: 1.0
+height_shift_range: 1.0
+Test Set Average: 85.09% Accuracy
