@@ -94,8 +94,10 @@ class Ui_Dialog(object):
         self.label.setGeometry(QtCore.QRect(100, 20, 55, 16))
         self.label.setObjectName("label")
         self.comboBox = QtWidgets.QComboBox(self.ProgramFrame)
-        self.comboBox.setGeometry(QtCore.QRect(560, 10, 111, 22))
+        self.comboBox.setGeometry(QtCore.QRect(510, 10, 161, 22))
         self.comboBox.setObjectName("comboBox")
+        self.comboBox.addItem("")
+        self.comboBox.addItem("")
         self.comboBox.addItem("")
         self.comboBox.addItem("")
         self.comboBox.addItem("")
@@ -112,11 +114,14 @@ class Ui_Dialog(object):
         self.label.setText(_translate("Dialog", "Result"))
         self.comboBox.setItemText(0, _translate("Dialog", "Trinary - TF"))
         self.comboBox.setItemText(1, _translate("Dialog", "Trinary - PyT"))
-        self.comboBox.setItemText(2, _translate("Dialog", "Binary - TF"))
-        self.comboBox.setItemText(3, _translate("Dialog", "Binary - PyT"))
-        self.comboBox.setItemText(4, _translate("Dialog", "BinaryB+V - TF"))
-        self.comboBox.setItemText(5, _translate("Dialog", "BinaryB+V - PyT"))
+        self.comboBox.setItemText(2, _translate("Dialog", "Trinary, LowFN - TF"))
+        self.comboBox.setItemText(3, _translate("Dialog", "Binary - TF"))
+        self.comboBox.setItemText(4, _translate("Dialog", "Binary - PyT"))
+        self.comboBox.setItemText(5, _translate("Dialog", "BinaryB+V - TF"))
+        self.comboBox.setItemText(6, _translate("Dialog", "BinaryB+V - PyT"))
+        self.comboBox.setItemText(7, _translate("Dialog", "BinaryB+V, LowFN - TF"))
         self.comboBox.currentTextChanged.connect(self.changeMethod)
+
         self.networktype = str(self.comboBox.currentText())
 
     def changeMethod(self):
@@ -155,11 +160,13 @@ class Ui_Dialog(object):
             self.ResultText.repaint()
 
             if self.networktype == "Trinary - PyT" or self.networktype == "Binary - PyT" or self.networktype == "BinaryB+V - PyT":
-                self.runPyTCNN(fname[0])
+                self.runPyTCNN(fname[0], 225, 225)
             elif self.networktype == "Trinary - TF" or self.networktype == "Binary - TF" or self.networktype == "BinaryB+V - TF":
-                self.runCNN(fname[0])
+                self.runCNN(fname[0], 100, 100)
+            elif self.networktype == "BinaryB+V, LowFN - TF" or self.networktype =="Trinary, LowFN - TF":
+                self.runCNN(fname[0], 200, 200)
 
-    def runCNN(self, fname):
+    def runCNN(self, fname, width, height):
         #
         # This is where we will send the image through the CNN.
         # All we have to do here is do the same thing to the images that
@@ -172,8 +179,8 @@ class Ui_Dialog(object):
         # Read the image in using opencv
         modelImg = cv2.cv2.imread(fname)
 
-        # Resize the image to be 200x200
-        modelImg = cv2.cv2.resize(modelImg, dsize=(200, 200))
+        # Resize the image to be widthxheight
+        modelImg = cv2.cv2.resize(modelImg, dsize=(width, height))
 
         # Convert the image into gray scale
         modelImg = cv2.cv2.cvtColor(modelImg, cv2.cv2.COLOR_BGR2GRAY)
@@ -184,17 +191,40 @@ class Ui_Dialog(object):
         # Convert the array to a numpy array
         imgArray = np.array(imgArray)
 
-        # These are the options that the AI will choose from
-        options = ['Bacteria Pneumonia', 'Normal', 'Virus Pneumonia']
 
         # Load in the model
         if self.networktype == "Trinary - TF":
-            model = load_model('adamE12085.09L1N150L2N610_12 21K3,2str(poolsize).h5')
+            # These are the options that the AI will choose from
+            options = ['Bacteria Pneumonia', 'Normal', 'Virus Pneumonia']
+
+            # Load the model
+            model = load_model('adamaxE12085.09_100x100_L1N150L2N610_12_14K18K27P18P29_105.h5')
         elif self.networktype == "Binary - TF":
+            # These are the options that the AI will choose from
             options = ['Normal', 'Pneumonia']
-            model = load_model('binary_model_new_4.h5')
+
+            # Load the model
+            model = load_model('binary_model_tf.h5')
+
         elif self.networktype == "BinaryB+V - TF":
+            # These are the options that the AI will choose from
             options = ['Pneumonia', 'Normal', 'Pneumonia']
+
+            # Load the model
+            model = load_model('adamaxE12085.09_100x100_L1N150L2N610_F1_12F2_14K1_8K2_7P1_8P2_9_32.h5')
+
+        elif self.networktype == 'BinaryB+V, LowFN - TF':
+            # These are the options that the AI will choose from
+            options = ['Pneumonia', 'Normal', 'Pneumonia']
+
+            # Load the model
+            model = load_model('adamE12085.09L1N150L2N610_12 21K3,2str(poolsize).h5')
+
+        elif self.networktype == 'Trinary, LowFN - TF':
+            # These are the options that the AI will choose from
+            options = ['Bacteria Pneumonia', 'Normal', 'Virus Pneumonia']
+
+            # Load the model
             model = load_model('adamE12085.09L1N150L2N610_12 21K3,2str(poolsize).h5')
 
         # Send the image into the CNN. Will return an array of 3 numpyFloats.
@@ -227,7 +257,7 @@ class Ui_Dialog(object):
     def displayresult(self, result, percentage):
         self.ResultText.setText("<p>" + "<strong>" + "Predicted: " + "</strong>" + "</p>" + result + "<br>" + "<p>" + "<strong>" + " Certainty: " + "</strong>" + "</p>" + str(round((percentage*100), 2)) + '%')
 
-    def runPyTCNN(self, fname):
+    def runPyTCNN(self, fname, width, height):
 
         # Having the options of what the AI can choose from
         class_names = ['Bacteria Pneumonia', 'Normal', 'Virus Pneumonia']
@@ -274,8 +304,8 @@ class Ui_Dialog(object):
 
         # Settings to make to the images
         imageTransform = T.Compose([
-
-            T.Resize(size=(224, 224)),
+            #Resize image to width, height
+            T.Resize(size=(width, height)),
             T.ToTensor(),
             T.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
         ])
