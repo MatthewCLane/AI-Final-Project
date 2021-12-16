@@ -1,0 +1,108 @@
+**These top models were determined by looking at the accuracy graphs**
+
+Note these are file names in the acuracy folder
+adamE12085.09accuracyScores_L1N150L2N610_4 21K5 3 Tested
+adamE12085.09accuracyScores_L1N150L2N610_5 24K5 Good average
+adamE12085.09accuracyScores_L1N150L2N610_10 13K3,2str(poolsize) Good average
+adamE12085.09accuracyScores_L1N150L2N610_7 27K3,2str(poolsize) Tested 1
+adamE12085.09accuracyScores_L1N150L2N610_8 22K3,2str(poolsize) Tested 2 (Retest?)
+adamE12085.09accuracyScores_L1N150L2N610_12 23K3,2str(poolsize) 4 Tested
+adamE12085.09accuracyScores_L1N150L2N610_12 14K3,2str(poolsize) 5 Tested (Using this one)
+
+# These are model names with the computed accuracy and more through the confusion matrix
+adamE12085.09confusionMatrix_L1N150L2N610_3 27K5
+Accuracy: 86.37820512820514%
+Sensitivity: 97.93388429752066%
+Specificity: 86.12565445026178%
+Positive Predictive Value: 81.72413793103448%
+Negative Predictive Value: 98.50299401197606%
+Binary Accuracy: 92.1474358974359%
+
+adamE12085.09confusionMatrix_L1N150L2N610_4 21K5 ***********************************
+Accuracy: 88.46153846153845%
+Sensitivity: 96.69421487603306%
+Specificity: 90.0523560209424%
+Positive Predictive Value: 86.02941176470588%
+Negative Predictive Value: 97.72727272727273%
+Binary Accuracy: 94.71153846153845%
+
+adamE12085.09confusionMatrix_L1N150L2N610_4 22K7
+Accuracy: 83.01282051282051%
+Sensitivity: 98.34710743801654%
+Specificity: 80.36649214659685%
+Positive Predictive Value: 76.03833865814697%
+Negative Predictive Value: 98.71382636655949%
+Binary Accuracy: 91.66666666666666%
+
+adamE12085.09confusionMatrix_L1N150L2N610_4 27K7 (has 4 FP)
+Accuracy: 85.8974358974359%
+Sensitivity: 97.52066115702479%
+Specificity: 89.26701570680629%
+Positive Predictive Value: 85.1985559566787%
+Negative Predictive Value: 98.27089337175792%
+Binary Accuracy: 91.02564102564102%
+
+adamE12085.09confusionMatrix_L1N150L2N610_5 28K5 (has 4 FP)
+Accuracy: 81.89102564102564%
+Sensitivity: 98.7603305785124%
+Specificity: 84.03141361256544%
+Positive Predictive Value: 79.66666666666666%
+Negative Predictive Value: 99.07407407407408%
+Binary Accuracy: 88.62179487179486%
+
+adamE12085.09confusionMatrix_L1N150L2N610_6 6K3 (has 3 FP)
+Accuracy: 79.32692307692307%
+Sensitivity: 93.38842975206612%
+Specificity: 83.50785340314137%
+Positive Predictive Value: 78.20069204152249%
+Negative Predictive Value: 95.22388059701493%
+Binary Accuracy: 89.1025641025641%
+
+adamE12085.09confusionMatrix_L1N150L2N610_7 21K3,2str(poolsize) (has 3 FP)
+Accuracy: 82.05128205128204%
+Sensitivity: 99.17355371900827%
+Specificity: 86.91099476439791%
+Positive Predictive Value: 82.75862068965517%
+Negative Predictive Value: 99.40119760479041%
+Binary Accuracy: 86.37820512820514%
+
+adamE12085.09confusionMatrix_L1N150L2N610_8 29K3,2str(poolsize) (has 3 FP)
+Accuracy: 82.6923076923077%
+Sensitivity: 98.34710743801654%
+Specificity: 82.98429319371728%
+Positive Predictive Value: 78.54785478547855%
+Negative Predictive Value: 98.75389408099689%
+Binary Accuracy: 90.06410256410257%
+
+adamE12085.09confusionMatrix_L1N150L2N610_11 21K3,2str(poolsize) (has 3 FP)
+Accuracy: 79.32692307692307%
+Sensitivity: 97.93388429752066%
+Specificity: 78.01047120418848%
+Positive Predictive Value: 73.83177570093457%
+Negative Predictive Value: 98.34983498349835%
+Binary Accuracy: 90.38461538461539%
+
+adamE12085.09confusionMatrix_L1N150L2N610_12 21K3,2str(poolsize) (has 2 FP)************************
+Accuracy: 85.25641025641025%
+Sensitivity: 97.93388429752066%
+Specificity: 88.21989528795811%
+Positive Predictive Value: 84.04255319148936%
+Negative Predictive Value: 98.53801169590643%
+Binary Accuracy: 91.02564102564102%
+
+adamE12085.09confusionMatrix_L1N150L2N610_13 4K3,2str(poolsize) (has 2 FP)
+Accuracy: 85.41666666666666%
+Sensitivity: 98.34710743801654%
+Specificity: 87.43455497382199%
+Positive Predictive Value: 83.21678321678321%
+Negative Predictive Value: 98.81656804733728%
+Binary Accuracy: 90.22435897435898%
+
+adamE12085.09confusionMatrix_L1N150L2N610_13 11K3,2str(poolsize) (has 2 FP)****************************
+Accuracy: 83.17307692307693%
+Sensitivity: 98.34710743801654%
+Specificity: 82.72251308900523%
+Positive Predictive Value: 78.28947368421053%
+Negative Predictive Value: 98.75%
+Binary Accuracy: 91.66666666666666%
+

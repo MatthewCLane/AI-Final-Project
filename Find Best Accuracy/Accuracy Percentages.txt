@@ -1,0 +1,45 @@
+Confusion Matrix Base: 80.61%
+confusionMatrix_RMSprop_Optimizer: 77.08%
+confusionMatrix50x50: 83.17%
+confusionMatrix75x75: 81.25%
+confusionMatrix100x100: 82.21%
+confusionMatrix125x125: 74.04%
+confusionMatrix150x150: 74.04%
+confusionMatrix175x175: 80.77%
+confusionMatrix250x250: 80.45%
+confusionMatrix300x300: 78.85%
+confusionMatrix350x350: 76.28%
+confusionMatrix400x400: 74.52%
+confusionMatrix450x450: 81.89%
+confusionMatrix500x500: 79.81%
+confusionMatrixBinaryNew: 86.06%
+confusionMatrixSTRIDE_2: 78.88%
+confusionMatrixSTRIDE_3: 74.68%
+Stride 4-10: ERROR
+Nadam epoch 15: 82.37%
+Nadam epoch 20: 83.97%
+Nadam epoch 60: 86.38%
+Nadam epoch 90: 86.54%
+Nadam epoch 120: 79.33%
+Nadam epoch 150: 84.46%
+Ftrl epoch 15: 81.57%
+Ftrl epoch 20: 74.04%
+Ftrl epoch 30: 81.09%
+Ftrl epoch 60: 82.21%
+Ftrl epoch 90: 82.05%
+Ftrl epoch 120: 84.46%
+Ftrl epoch 150: 84.62%
+Adamax epoch 15: 76.28%
+Adamax epoch 20: 80.13%
+Adamax epoch 30: 79.49%
+Adamax epoch 60: 75.16%
+Adamax epoch 90: 79.81%
+Adamax epoch 120: 83.81%
+Adamax epoch 150: 82.38%
+
+
+
+
+
+
+

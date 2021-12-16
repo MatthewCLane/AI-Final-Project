@@ -1,0 +1,270 @@
+
+Accuracy: 77.24358974358975
+P1: 1
+P2: 2
+Iteration: 1
+
+Accuracy: 86.85897435897436
+P1: 2
+P2: 3
+Iteration: 1
+
+Accuracy: 86.37820512820514
+P1: 3
+P2: 4
+Iteration: 1
+
+Accuracy: 84.2948717948718
+P1: 4
+P2: 5
+Iteration: 1
+
+Accuracy: 86.37820512820514
+P1: 5
+P2: 6
+Iteration: 1
+
+Accuracy: 83.97435897435898
+P1: 6
+P2: 7
+Iteration: 1
+
+Accuracy: 81.57051282051282
+P1: 7
+P2: 8
+Iteration: 1
+
+Accuracy: 80.12820512820514
+P1: 8
+P2: 9
+Iteration: 1
+
+Accuracy: 85.8974358974359
+P1: 9
+P2: 10
+Iteration: 1
+
+Accuracy: 84.93589743589743
+P1: 1
+P2: 2
+Iteration: 2
+
+Accuracy: 86.0576923076923
+P1: 2
+P2: 3
+Iteration: 2
+
+Accuracy: 79.96794871794873
+P1: 3
+P2: 4
+Iteration: 2
+
+Accuracy: 85.73717948717949
+P1: 4
+P2: 5
+Iteration: 2
+
+Accuracy: 86.53846153846155
+P1: 5
+P2: 6
+Iteration: 2
+
+Accuracy: 84.61538461538461
+P1: 6
+P2: 7
+Iteration: 2
+
+Accuracy: 83.33333333333334
+P1: 7
+P2: 8
+Iteration: 2
+
+Accuracy: 86.0576923076923
+P1: 8
+P2: 9
+Iteration: 2
+
+Accuracy: 85.09615384615384
+P1: 9
+P2: 10
+Iteration: 2
+
+Accuracy: 83.81410256410257
+P1: 1
+P2: 1
+Iteration: 1
+
+Accuracy: 80.12820512820514
+P1: 2
+P2: 2
+Iteration: 1
+
+Accuracy: 83.81410256410257
+P1: 3
+P2: 3
+Iteration: 1
+
+Accuracy: 81.73076923076923
+P1: 4
+P2: 4
+Iteration: 1
+
+Accuracy: 75.0
+P1: 5
+P2: 5
+Iteration: 1
+
+Accuracy: 83.49358974358975
+P1: 6
+P2: 6
+Iteration: 1
+
+Accuracy: 86.0576923076923
+P1: 7
+P2: 7
+Iteration: 1
+
+Accuracy: 84.2948717948718
+P1: 8
+P2: 8
+Iteration: 1
+
+Accuracy: 85.73717948717949
+P1: 9
+P2: 9
+Iteration: 1
+
+Accuracy: 85.09615384615384
+P1: 1
+P2: 1
+Iteration: 2
+
+Accuracy: 81.57051282051282
+P1: 2
+P2: 2
+Iteration: 2
+
+Accuracy: 84.77564102564102
+P1: 3
+P2: 3
+Iteration: 2
+
+Accuracy: 84.13461538461539
+P1: 4
+P2: 4
+Iteration: 2
+
+Accuracy: 84.13461538461539
+P1: 5
+P2: 5
+Iteration: 2
+
+Accuracy: 84.77564102564102
+P1: 6
+P2: 6
+Iteration: 2
+
+Accuracy: 80.76923076923077
+P1: 7
+P2: 7
+Iteration: 2
+
+Accuracy: 85.57692307692307
+P1: 8
+P2: 8
+Iteration: 2
+
+Accuracy: 84.2948717948718
+P1: 9
+P2: 9
+Iteration: 2
+
+Accuracy: 83.01282051282051
+P1: 2
+P2: 1
+Iteration: 1
+
+Accuracy: 84.77564102564102
+P1: 3
+P2: 2
+Iteration: 1
+
+Accuracy: 87.17948717948718
+P1: 4
+P2: 3
+Iteration: 1
+
+Accuracy: 83.65384615384616
+P1: 5
+P2: 4
+Iteration: 1
+
+Accuracy: 84.61538461538461
+P1: 6
+P2: 5
+Iteration: 1
+
+Accuracy: 86.37820512820514
+P1: 7
+P2: 6
+Iteration: 1
+
+Accuracy: 87.01923076923077
+P1: 8
+P2: 7
+Iteration: 1
+
+Accuracy: 88.14102564102564
+P1: 9
+P2: 8
+Iteration: 1
+
+Accuracy: 84.4551282051282
+P1: 10
+P2: 9
+Iteration: 1
+
+Accuracy: 84.13461538461539
+P1: 2
+P2: 1
+Iteration: 2
+
+Accuracy: 87.17948717948718
+P1: 3
+P2: 2
+Iteration: 2
+
+Accuracy: 88.14102564102564
+P1: 4
+P2: 3
+Iteration: 2
+
+Accuracy: 83.33333333333334
+P1: 5
+P2: 4
+Iteration: 2
+
+Accuracy: 84.4551282051282
+P1: 6
+P2: 5
+Iteration: 2
+
+Accuracy: 77.24358974358975
+P1: 7
+P2: 6
+Iteration: 2
+
+Accuracy: 81.08974358974359
+P1: 8
+P2: 7
+Iteration: 2
+
+Accuracy: 90.22435897435898
+P1: 9
+P2: 8
+Iteration: 2
+
+Accuracy: 86.21794871794873
+P1: 10
+P2: 9
+Iteration: 2

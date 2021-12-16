@@ -1,0 +1,1956 @@
+
+L1 = 10
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 20
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 30
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 40
+Confusion Matrix Accuracy: 452/624 = 72.43589743589743%
+
+L1 = 50
+Confusion Matrix Accuracy: 481/624 = 77.08333333333334%
+
+L1 = 60
+Confusion Matrix Accuracy: 520/624 = 83.33333333333334%
+
+L1 = 70
+Confusion Matrix Accuracy: 420/624 = 67.3076923076923%
+
+L1 = 80
+Confusion Matrix Accuracy: 498/624 = 79.8076923076923%
+
+L1 = 90
+Confusion Matrix Accuracy: 451/624 = 72.27564102564102%
+
+L1 = 100
+Confusion Matrix Accuracy: 519/624 = 83.17307692307693%
+
+L1 = 110
+Confusion Matrix Accuracy: 454/624 = 72.75641025641025%
+
+L1 = 120
+Confusion Matrix Accuracy: 471/624 = 75.48076923076923%
+
+L1 = 130
+Confusion Matrix Accuracy: 463/624 = 74.19871794871796%
+
+L1 = 140
+Confusion Matrix Accuracy: 461/624 = 73.87820512820514%
+
+L1 = 150
+Confusion Matrix Accuracy: 522/624 = 83.65384615384616%
+
+L1 = 160
+Confusion Matrix Accuracy: 520/624 = 83.33333333333334%
+
+L1 = 170
+Confusion Matrix Accuracy: 503/624 = 80.60897435897436%
+
+L1 = 180
+Confusion Matrix Accuracy: 502/624 = 80.44871794871796%
+
+L1 = 190
+Confusion Matrix Accuracy: 470/624 = 75.32051282051282%
+
+L1 = 200
+Confusion Matrix Accuracy: 497/624 = 79.6474358974359%
+
+L1 = 210
+Confusion Matrix Accuracy: 484/624 = 77.56410256410257%
+
+L1 = 220
+Confusion Matrix Accuracy: 441/624 = 70.67307692307693%
+
+L1 = 230
+Confusion Matrix Accuracy: 490/624 = 78.52564102564102%
+
+L1 = 240
+Confusion Matrix Accuracy: 491/624 = 78.68589743589743%
+
+L1 = 250
+Confusion Matrix Accuracy: 430/624 = 68.91025641025641%
+
+L1 = 260
+Confusion Matrix Accuracy: 482/624 = 77.24358974358975%
+
+L1 = 270
+Confusion Matrix Accuracy: 491/624 = 78.68589743589743%
+
+L1 = 280
+Confusion Matrix Accuracy: 519/624 = 83.17307692307693%
+
+L1 = 290
+Confusion Matrix Accuracy: 520/624 = 83.33333333333334%
+
+L1 = 300
+Confusion Matrix Accuracy: 517/624 = 82.8525641025641%
+
+L1 = 310
+Confusion Matrix Accuracy: 495/624 = 79.32692307692307%
+
+L1 = 320
+Confusion Matrix Accuracy: 518/624 = 83.01282051282051%
+
+L1 = 150
+L2 = 10
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 20
+Confusion Matrix Accuracy: 501/624 = 80.28846153846155%
+
+L1 = 150
+L2 = 30
+Confusion Matrix Accuracy: 504/624 = 80.76923076923077%
+
+L1 = 150
+L2 = 40
+Confusion Matrix Accuracy: 467/624 = 74.83974358974359%
+
+L1 = 150
+L2 = 50
+Confusion Matrix Accuracy: 471/624 = 75.48076923076923%
+
+L1 = 150
+L2 = 60
+Confusion Matrix Accuracy: 528/624 = 84.61538461538461%
+
+L1 = 150
+L2 = 70
+Confusion Matrix Accuracy: 463/624 = 74.19871794871796%
+
+L1 = 150
+L2 = 80
+Confusion Matrix Accuracy: 533/624 = 85.41666666666666%
+
+L1 = 150
+L2 = 90
+Confusion Matrix Accuracy: 485/624 = 77.72435897435898%
+
+L1 = 150
+L2 = 100
+Confusion Matrix Accuracy: 501/624 = 80.28846153846155%
+
+L1 = 150
+L2 = 110
+Confusion Matrix Accuracy: 477/624 = 76.4423076923077%
+
+L1 = 150
+L2 = 120
+Confusion Matrix Accuracy: 519/624 = 83.17307692307693%
+
+L1 = 150
+L2 = 130
+Confusion Matrix Accuracy: 497/624 = 79.6474358974359%
+
+L1 = 150
+L2 = 140
+Confusion Matrix Accuracy: 459/624 = 73.5576923076923%
+
+L1 = 150
+L2 = 150
+Confusion Matrix Accuracy: 517/624 = 82.8525641025641%
+
+L1 = 150
+L2 = 160
+Confusion Matrix Accuracy: 492/624 = 78.84615384615384%
+
+L1 = 150
+L2 = 170
+Confusion Matrix Accuracy: 493/624 = 79.00641025641025%
+
+L1 = 150
+L2 = 180
+Confusion Matrix Accuracy: 502/624 = 80.44871794871796%
+
+L1 = 150
+L2 = 190
+Confusion Matrix Accuracy: 515/624 = 82.53205128205127%
+
+L1 = 150
+L2 = 200
+Confusion Matrix Accuracy: 498/624 = 79.8076923076923%
+
+L1 = 150
+L2 = 210
+Confusion Matrix Accuracy: 520/624 = 83.33333333333334%
+
+L1 = 150
+L2 = 220
+Confusion Matrix Accuracy: 515/624 = 82.53205128205127%
+
+L1 = 150
+L2 = 230
+Confusion Matrix Accuracy: 490/624 = 78.52564102564102%
+
+L1 = 150
+L2 = 240
+Confusion Matrix Accuracy: 507/624 = 81.25%
+
+L1 = 150
+L2 = 250
+Confusion Matrix Accuracy: 522/624 = 83.65384615384616%
+
+L1 = 150
+L2 = 260
+Confusion Matrix Accuracy: 482/624 = 77.24358974358975%
+
+L1 = 150
+L2 = 270
+Confusion Matrix Accuracy: 522/624 = 83.65384615384616%
+
+L1 = 150
+L2 = 280
+Confusion Matrix Accuracy: 484/624 = 77.56410256410257%
+
+L1 = 150
+L2 = 290
+Confusion Matrix Accuracy: 516/624 = 82.6923076923077%
+
+L1 = 150
+L2 = 300
+Confusion Matrix Accuracy: 491/624 = 78.68589743589743%
+
+L1 = 150
+L2 = 310
+Confusion Matrix Accuracy: 454/624 = 72.75641025641025%
+
+L1 = 150
+L2 = 320
+Confusion Matrix Accuracy: 411/624 = 65.86538461538461%
+
+L1 = 150
+L2 = 330
+Confusion Matrix Accuracy: 480/624 = 76.92307692307693%
+
+L1 = 150
+L2 = 340
+Confusion Matrix Accuracy: 507/624 = 81.25%
+
+L1 = 150
+L2 = 350
+Confusion Matrix Accuracy: 493/624 = 79.00641025641025%
+
+L1 = 150
+L2 = 360
+Confusion Matrix Accuracy: 528/624 = 84.61538461538461%
+
+L1 = 150
+L2 = 370
+Confusion Matrix Accuracy: 530/624 = 84.93589743589743%
+
+L1 = 150
+L2 = 380
+Confusion Matrix Accuracy: 499/624 = 79.96794871794873%
+
+L1 = 150
+L2 = 390
+Confusion Matrix Accuracy: 513/624 = 82.21153846153845%
+
+L1 = 150
+L2 = 400
+Confusion Matrix Accuracy: 484/624 = 77.56410256410257%
+
+L1 = 150
+L2 = 410
+Confusion Matrix Accuracy: 501/624 = 80.28846153846155%
+
+L1 = 150
+L2 = 420
+Confusion Matrix Accuracy: 524/624 = 83.97435897435898%
+
+L1 = 150
+L2 = 430
+Confusion Matrix Accuracy: 542/624 = 86.85897435897436%
+
+L1 = 150
+L2 = 440
+Confusion Matrix Accuracy: 501/624 = 80.28846153846155%
+
+L1 = 150
+L2 = 450
+Confusion Matrix Accuracy: 512/624 = 82.05128205128204%
+
+L1 = 150
+L2 = 460
+Confusion Matrix Accuracy: 510/624 = 81.73076923076923%
+
+L1 = 150
+L2 = 470
+Confusion Matrix Accuracy: 483/624 = 77.40384615384616%
+
+L1 = 150
+L2 = 480
+Confusion Matrix Accuracy: 437/624 = 70.03205128205127%
+
+L1 = 150
+L2 = 490
+Confusion Matrix Accuracy: 461/624 = 73.87820512820514%
+
+L1 = 150
+L2 = 500
+Confusion Matrix Accuracy: 515/624 = 82.53205128205127%
+
+L1 = 150
+L2 = 510
+Confusion Matrix Accuracy: 516/624 = 82.6923076923077%
+
+L1 = 150
+L2 = 520
+Confusion Matrix Accuracy: 462/624 = 74.03846153846155%
+
+L1 = 150
+L2 = 530
+Confusion Matrix Accuracy: 480/624 = 76.92307692307693%
+
+L1 = 150
+L2 = 540
+Confusion Matrix Accuracy: 526/624 = 84.2948717948718%
+
+L1 = 150
+L2 = 550
+Confusion Matrix Accuracy: 482/624 = 77.24358974358975%
+
+L1 = 150
+L2 = 560
+Confusion Matrix Accuracy: 492/624 = 78.84615384615384%
+
+L1 = 150
+L2 = 570
+Confusion Matrix Accuracy: 486/624 = 77.88461538461539%
+
+L1 = 150
+L2 = 580
+Confusion Matrix Accuracy: 434/624 = 69.55128205128204%
+
+L1 = 150
+L2 = 590
+Confusion Matrix Accuracy: 473/624 = 75.80128205128204%
+
+L1 = 150
+L2 = 600
+Confusion Matrix Accuracy: 506/624 = 81.08974358974359%
+
+L1 = 150
+L2 = 610
+Confusion Matrix Accuracy: 547/624 = 87.66025641025641%
+
+L1 = 150
+L2 = 620
+Confusion Matrix Accuracy: 490/624 = 78.52564102564102%
+
+L1 = 150
+L2 = 630
+Confusion Matrix Accuracy: 493/624 = 79.00641025641025%
+
+L1 = 150
+L2 = 640
+Confusion Matrix Accuracy: 512/624 = 82.05128205128204%
+
+L1 = 150
+L2 = 650
+Confusion Matrix Accuracy: 485/624 = 77.72435897435898%
+
+L1 = 150
+L2 = 660
+Confusion Matrix Accuracy: 477/624 = 76.4423076923077%
+
+L1 = 150
+L2 = 670
+Confusion Matrix Accuracy: 489/624 = 78.36538461538461%
+
+L1 = 150
+L2 = 680
+Confusion Matrix Accuracy: 514/624 = 82.37179487179486%
+
+L1 = 150
+L2 = 690
+Confusion Matrix Accuracy: 508/624 = 81.41025641025641%
+
+L1 = 150
+L2 = 700
+Confusion Matrix Accuracy: 525/624 = 84.13461538461539%
+
+L1 = 150
+L2 = 710
+Confusion Matrix Accuracy: 476/624 = 76.28205128205127%
+
+L1 = 150
+L2 = 720
+Confusion Matrix Accuracy: 495/624 = 79.32692307692307%
+
+L1 = 150
+L2 = 730
+Confusion Matrix Accuracy: 502/624 = 80.44871794871796%
+
+L1 = 150
+L2 = 740
+Confusion Matrix Accuracy: 491/624 = 78.68589743589743%
+
+L1 = 150
+L2 = 750
+Confusion Matrix Accuracy: 476/624 = 76.28205128205127%
+
+L1 = 150
+L2 = 760
+Confusion Matrix Accuracy: 485/624 = 77.72435897435898%
+
+L1 = 150
+L2 = 770
+Confusion Matrix Accuracy: 491/624 = 78.68589743589743%
+
+L1 = 150
+L2 = 780
+Confusion Matrix Accuracy: 482/624 = 77.24358974358975%
+
+L1 = 150
+L2 = 790
+Confusion Matrix Accuracy: 469/624 = 75.16025641025641%
+
+L1 = 150
+L2 = 800
+Confusion Matrix Accuracy: 461/624 = 73.87820512820514%
+
+L1 = 150
+L2 = 810
+Confusion Matrix Accuracy: 513/624 = 82.21153846153845%
+
+L1 = 150
+L2 = 820
+Confusion Matrix Accuracy: 453/624 = 72.59615384615384%
+
+L1 = 150
+L2 = 830
+Confusion Matrix Accuracy: 473/624 = 75.80128205128204%
+
+L1 = 150
+L2 = 840
+Confusion Matrix Accuracy: 490/624 = 78.52564102564102%
+
+L1 = 150
+L2 = 850
+Confusion Matrix Accuracy: 461/624 = 73.87820512820514%
+
+L1 = 150
+L2 = 860
+Confusion Matrix Accuracy: 494/624 = 79.16666666666666%
+
+L1 = 150
+L2 = 870
+Confusion Matrix Accuracy: 499/624 = 79.96794871794873%
+
+L1 = 150
+L2 = 880
+Confusion Matrix Accuracy: 498/624 = 79.8076923076923%
+
+L1 = 150
+L2 = 890
+Confusion Matrix Accuracy: 497/624 = 79.6474358974359%
+
+L1 = 150
+L2 = 900
+Confusion Matrix Accuracy: 503/624 = 80.60897435897436%
+
+L1 = 150
+L2 = 910
+Confusion Matrix Accuracy: 430/624 = 68.91025641025641%
+
+L1 = 150
+L2 = 920
+Confusion Matrix Accuracy: 481/624 = 77.08333333333334%
+
+L1 = 150
+L2 = 930
+Confusion Matrix Accuracy: 421/624 = 67.46794871794873%
+
+L1 = 150
+L2 = 940
+Confusion Matrix Accuracy: 512/624 = 82.05128205128204%
+
+L1 = 150
+L2 = 950
+Confusion Matrix Accuracy: 498/624 = 79.8076923076923%
+
+L1 = 150
+L2 = 610
+L3 = 10
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 610
+L3 = 20
+Confusion Matrix Accuracy: 528/624 = 84.61538461538461%
+
+L1 = 150
+L2 = 610L3 = 30
+Confusion Matrix Accuracy: 478/624 = 76.6025641025641%
+
+L1 = 150
+L2 = 610
+L3 = 40
+Confusion Matrix Accuracy: 513/624 = 82.21153846153845%
+
+L1 = 150
+L2 = 610
+L3 = 50
+Confusion Matrix Accuracy: 473/624 = 75.80128205128204%
+
+L1 = 150
+L2 = 610
+L3 = 60
+Confusion Matrix Accuracy: 508/624 = 81.41025641025641%
+
+L1 = 150
+L2 = 610
+L3 = 70
+Confusion Matrix Accuracy: 494/624 = 79.16666666666666%
+
+L1 = 150
+L2 = 610
+L3 = 80
+Confusion Matrix Accuracy: 488/624 = 78.2051282051282%
+
+L1 = 150
+L2 = 610
+L3 = 90
+Confusion Matrix Accuracy: 518/624 = 83.01282051282051%
+
+L1 = 150
+L2 = 610
+L3 = 100
+Confusion Matrix Accuracy: 405/624 = 64.90384615384616%
+
+L1 = 150
+L2 = 610
+L3 = 110
+Confusion Matrix Accuracy: 505/624 = 80.92948717948718%
+
+L1 = 150
+L2 = 610
+L3 = 120
+Confusion Matrix Accuracy: 504/624 = 80.76923076923077%
+
+L1 = 150
+L2 = 610
+L3 = 130
+Confusion Matrix Accuracy: 508/624 = 81.41025641025641%
+
+L1 = 150
+L2 = 610
+L3 = 140
+Confusion Matrix Accuracy: 484/624 = 77.56410256410257%
+
+L1 = 150
+L2 = 610
+L3 = 150
+Confusion Matrix Accuracy: 511/624 = 81.89102564102564%
+
+L1 = 150
+L2 = 610
+L3 = 160
+Confusion Matrix Accuracy: 485/624 = 77.72435897435898%
+
+L1 = 150
+L2 = 610
+L3 = 170
+Confusion Matrix Accuracy: 526/624 = 84.2948717948718%
+
+L1 = 150
+L2 = 610
+L3 = 180
+Confusion Matrix Accuracy: 533/624 = 85.41666666666666%
+
+L1 = 150
+L2 = 610
+L3 = 190
+Confusion Matrix Accuracy: 500/624 = 80.12820512820514%
+
+L1 = 150
+L2 = 610
+L3 = 200
+Confusion Matrix Accuracy: 522/624 = 83.65384615384616%
+
+L1 = 150
+L2 = 610
+L3 = 210
+Confusion Matrix Accuracy: 486/624 = 77.88461538461539%
+
+L1 = 150
+L2 = 610
+L3 = 220
+Confusion Matrix Accuracy: 512/624 = 82.05128205128204%
+
+L1 = 150
+L2 = 610
+L3 = 230
+Confusion Matrix Accuracy: 528/624 = 84.61538461538461%
+
+L1 = 150
+L2 = 610
+L3 = 240
+Confusion Matrix Accuracy: 515/624 = 82.53205128205127%
+
+L1 = 150
+L2 = 610
+L3 = 250
+Confusion Matrix Accuracy: 512/624 = 82.05128205128204%
+
+L1 = 150
+L2 = 610
+L3 = 260
+Confusion Matrix Accuracy: 500/624 = 80.12820512820514%
+
+L1 = 150
+L2 = 610
+L3 = 270
+Confusion Matrix Accuracy: 511/624 = 81.89102564102564%
+
+L1 = 150
+L2 = 610
+L3 = 280
+Confusion Matrix Accuracy: 469/624 = 75.16025641025641%
+
+L1 = 150
+L2 = 610
+L3 = 290
+Confusion Matrix Accuracy: 506/624 = 81.08974358974359%
+
+L1 = 150
+L2 = 610
+L3 = 300
+Confusion Matrix Accuracy: 510/624 = 81.73076923076923%
+
+L1 = 150
+L2 = 610
+L3 = 310
+Confusion Matrix Accuracy: 517/624 = 82.8525641025641%
+
+L1 = 150
+L2 = 610
+L3 = 320
+Confusion Matrix Accuracy: 535/624 = 85.73717948717949%
+
+L1 = 150
+L2 = 610
+L3 = 330
+Confusion Matrix Accuracy: 499/624 = 79.96794871794873%
+
+L1 = 150
+L2 = 610
+L3 = 340
+Confusion Matrix Accuracy: 507/624 = 81.25%
+
+L1 = 150
+L2 = 610
+L3 = 350
+Confusion Matrix Accuracy: 514/624 = 82.37179487179486%
+
+L1 = 150
+L2 = 610
+L3 = 360
+Confusion Matrix Accuracy: 491/624 = 78.68589743589743%
+
+L1 = 150
+L2 = 610
+L3 = 370
+Confusion Matrix Accuracy: 444/624 = 71.15384615384616%
+
+L1 = 150
+L2 = 610
+L3 = 380
+Confusion Matrix Accuracy: 503/624 = 80.60897435897436%
+
+L1 = 150
+L2 = 610
+L3 = 390
+Confusion Matrix Accuracy: 501/624 = 80.28846153846155%
+
+L1 = 150
+L2 = 610
+L3 = 400
+Confusion Matrix Accuracy: 498/624 = 79.8076923076923%
+
+L1 = 150
+L2 = 610L3 = 410
+Confusion Matrix Accuracy: 497/624 = 79.6474358974359%
+
+L1 = 150
+L2 = 610
+L3 = 420
+Confusion Matrix Accuracy: 462/624 = 74.03846153846155%
+
+L1 = 150
+L2 = 610
+L3 = 430
+Confusion Matrix Accuracy: 534/624 = 85.57692307692307%
+
+L1 = 150
+L2 = 610
+L3 = 440
+Confusion Matrix Accuracy: 506/624 = 81.08974358974359%
+
+L1 = 150
+L2 = 610
+L3 = 450
+Confusion Matrix Accuracy: 505/624 = 80.92948717948718%
+
+L1 = 150
+L2 = 610
+L3 = 460
+Confusion Matrix Accuracy: 466/624 = 74.67948717948718%
+
+L1 = 150
+L2 = 610
+L3 = 470
+Confusion Matrix Accuracy: 510/624 = 81.73076923076923%
+
+L1 = 150
+L2 = 610
+L3 = 480
+Confusion Matrix Accuracy: 495/624 = 79.32692307692307%
+
+L1 = 150
+L2 = 610
+L3 = 490
+Confusion Matrix Accuracy: 492/624 = 78.84615384615384%
+
+L1 = 150
+L2 = 610
+L3 = 500
+Confusion Matrix Accuracy: 535/624 = 85.73717948717949%
+
+L1 = 150
+L2 = 610
+L3 = 510
+Confusion Matrix Accuracy: 508/624 = 81.41025641025641%
+
+L1 = 150
+L2 = 610
+L3 = 520
+Confusion Matrix Accuracy: 533/624 = 85.41666666666666%
+
+L1 = 150
+L2 = 610
+L3 = 530
+Confusion Matrix Accuracy: 488/624 = 78.2051282051282%
+
+L1 = 150
+L2 = 610
+L3 = 540
+Confusion Matrix Accuracy: 512/624 = 82.05128205128204%
+
+L1 = 150
+L2 = 610
+L3 = 550
+Confusion Matrix Accuracy: 519/624 = 83.17307692307693%
+
+L1 = 150
+L2 = 610
+L3 = 560
+Confusion Matrix Accuracy: 477/624 = 76.4423076923077%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 10
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 20
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 30
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 40
+Confusion Matrix Accuracy: 430/624 = 68.91025641025641%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 50
+Confusion Matrix Accuracy: 525/624 = 84.13461538461539%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 60
+Confusion Matrix Accuracy: 475/624 = 76.12179487179486%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 70
+Confusion Matrix Accuracy: 534/624 = 85.57692307692307%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 80
+Confusion Matrix Accuracy: 528/624 = 84.61538461538461%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 90
+Confusion Matrix Accuracy: 505/624 = 80.92948717948718%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 100
+Confusion Matrix Accuracy: 529/624 = 84.77564102564102%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 110
+Confusion Matrix Accuracy: 469/624 = 75.16025641025641%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 120
+Confusion Matrix Accuracy: 499/624 = 79.96794871794873%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 130
+Confusion Matrix Accuracy: 481/624 = 77.08333333333334%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 140
+Confusion Matrix Accuracy: 521/624 = 83.49358974358975%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 150
+Confusion Matrix Accuracy: 500/624 = 80.12820512820514%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 160
+Confusion Matrix Accuracy: 467/624 = 74.83974358974359%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 170
+Confusion Matrix Accuracy: 519/624 = 83.17307692307693%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 180
+Confusion Matrix Accuracy: 465/624 = 74.51923076923077%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 190
+Confusion Matrix Accuracy: 516/624 = 82.6923076923077%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 200
+Confusion Matrix Accuracy: 530/624 = 84.93589743589743%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 210
+Confusion Matrix Accuracy: 478/624 = 76.6025641025641%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 220
+Confusion Matrix Accuracy: 507/624 = 81.25%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 230
+Confusion Matrix Accuracy: 468/624 = 75.0%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 240
+Confusion Matrix Accuracy: 494/624 = 79.16666666666666%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 250
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 260
+Confusion Matrix Accuracy: 516/624 = 82.6923076923077%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 270
+Confusion Matrix Accuracy: 517/624 = 82.8525641025641%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 280
+Confusion Matrix Accuracy: 509/624 = 81.57051282051282%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 290
+Confusion Matrix Accuracy: 457/624 = 73.23717948717949%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 300
+Confusion Matrix Accuracy: 486/624 = 77.88461538461539%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 310
+Confusion Matrix Accuracy: 461/624 = 73.87820512820514%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+Confusion Matrix Accuracy: 475/624 = 76.12179487179486%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 330
+Confusion Matrix Accuracy: 487/624 = 78.0448717948718%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 340
+Confusion Matrix Accuracy: 495/624 = 79.32692307692307%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 350
+Confusion Matrix Accuracy: 494/624 = 79.16666666666666%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 360
+Confusion Matrix Accuracy: 478/624 = 76.6025641025641%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 370
+Confusion Matrix Accuracy: 458/624 = 73.3974358974359%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 380
+Confusion Matrix Accuracy: 472/624 = 75.64102564102564%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 390
+Confusion Matrix Accuracy: 504/624 = 80.76923076923077%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 400
+Confusion Matrix Accuracy: 515/624 = 82.53205128205127%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 410
+Confusion Matrix Accuracy: 500/624 = 80.12820512820514%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 420
+Confusion Matrix Accuracy: 492/624 = 78.84615384615384%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 430
+Confusion Matrix Accuracy: 483/624 = 77.40384615384616%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 440
+Confusion Matrix Accuracy: 466/624 = 74.67948717948718%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 450
+Confusion Matrix Accuracy: 471/624 = 75.48076923076923%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 460
+Confusion Matrix Accuracy: 470/624 = 75.32051282051282%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 470
+Confusion Matrix Accuracy: 503/624 = 80.60897435897436%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 480
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 490
+Confusion Matrix Accuracy: 508/624 = 81.41025641025641%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 500
+Confusion Matrix Accuracy: 516/624 = 82.6923076923077%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 510
+Confusion Matrix Accuracy: 490/624 = 78.52564102564102%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 520
+Confusion Matrix Accuracy: 509/624 = 81.57051282051282%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 530
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 540
+Confusion Matrix Accuracy: 522/624 = 83.65384615384616%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 550
+Confusion Matrix Accuracy: 471/624 = 75.48076923076923%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 560
+Confusion Matrix Accuracy: 476/624 = 76.28205128205127%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 570
+Confusion Matrix Accuracy: 496/624 = 79.48717948717949%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L4 = 10
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 20
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 30
+Confusion Matrix Accuracy: 482/624 = 77.24358974358975%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 40
+Confusion Matrix Accuracy: 507/624 = 81.25%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 50
+Confusion Matrix Accuracy: 477/624 = 76.4423076923077%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+Confusion Matrix Accuracy: 536/624 = 85.8974358974359%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 70
+Confusion Matrix Accuracy: 512/624 = 82.05128205128204%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 80
+Confusion Matrix Accuracy: 515/624 = 82.53205128205127%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 90
+Confusion Matrix Accuracy: 520/624 = 83.33333333333334%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 100
+Confusion Matrix Accuracy: 510/624 = 81.73076923076923%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 110
+Confusion Matrix Accuracy: 467/624 = 74.83974358974359%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 120
+Confusion Matrix Accuracy: 525/624 = 84.13461538461539%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 130
+Confusion Matrix Accuracy: 507/624 = 81.25%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 140
+Confusion Matrix Accuracy: 517/624 = 82.8525641025641%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 150
+Confusion Matrix Accuracy: 465/624 = 74.51923076923077%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 160
+Confusion Matrix Accuracy: 531/624 = 85.09615384615384%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 170
+Confusion Matrix Accuracy: 497/624 = 79.6474358974359%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 180
+Confusion Matrix Accuracy: 520/624 = 83.33333333333334%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 190
+Confusion Matrix Accuracy: 486/624 = 77.88461538461539%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 200
+Confusion Matrix Accuracy: 489/624 = 78.36538461538461%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 210
+Confusion Matrix Accuracy: 517/624 = 82.8525641025641%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 220
+Confusion Matrix Accuracy: 509/624 = 81.57051282051282%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 230
+Confusion Matrix Accuracy: 504/624 = 80.76923076923077%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 240
+Confusion Matrix Accuracy: 520/624 = 83.33333333333334%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 250
+Confusion Matrix Accuracy: 533/624 = 85.41666666666666%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 260
+Confusion Matrix Accuracy: 477/624 = 76.4423076923077%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 270
+Confusion Matrix Accuracy: 530/624 = 84.93589743589743%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 280
+Confusion Matrix Accuracy: 471/624 = 75.48076923076923%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 290
+Confusion Matrix Accuracy: 490/624 = 78.52564102564102%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 300
+Confusion Matrix Accuracy: 501/624 = 80.28846153846155%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 310
+Confusion Matrix Accuracy: 466/624 = 74.67948717948718%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 320
+Confusion Matrix Accuracy: 485/624 = 77.72435897435898%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 330
+Confusion Matrix Accuracy: 507/624 = 81.25%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 340
+Confusion Matrix Accuracy: 513/624 = 82.21153846153845%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 350
+Confusion Matrix Accuracy: 489/624 = 78.36538461538461%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 360
+Confusion Matrix Accuracy: 496/624 = 79.48717948717949%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 370
+Confusion Matrix Accuracy: 452/624 = 72.43589743589743%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 380
+Confusion Matrix Accuracy: 487/624 = 78.0448717948718%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 390
+Confusion Matrix Accuracy: 519/624 = 83.17307692307693%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 400
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 410
+Confusion Matrix Accuracy: 460/624 = 73.71794871794873%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 420
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 430
+Confusion Matrix Accuracy: 527/624 = 84.4551282051282%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 440
+Confusion Matrix Accuracy: 509/624 = 81.57051282051282%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 450
+Confusion Matrix Accuracy: 469/624 = 75.16025641025641%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 460
+Confusion Matrix Accuracy: 501/624 = 80.28846153846155%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 470
+Confusion Matrix Accuracy: 484/624 = 77.56410256410257%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 480
+Confusion Matrix Accuracy: 485/624 = 77.72435897435898%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 490
+Confusion Matrix Accuracy: 479/624 = 76.76282051282051%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 500
+Confusion Matrix Accuracy: 520/624 = 83.33333333333334%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 510
+Confusion Matrix Accuracy: 484/624 = 77.56410256410257%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 520
+Confusion Matrix Accuracy: 481/624 = 77.08333333333334%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 530
+Confusion Matrix Accuracy: 487/624 = 78.0448717948718%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 10
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 20
+Confusion Matrix Accuracy: 242/624 = 38.782051282051285%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 30
+Confusion Matrix Accuracy: 511/624 = 81.89102564102564%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 40
+Confusion Matrix Accuracy: 506/624 = 81.08974358974359%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 50
+Confusion Matrix Accuracy: 496/624 = 79.48717948717949%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 60
+Confusion Matrix Accuracy: 500/624 = 80.12820512820514%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 70
+Confusion Matrix Accuracy: 511/624 = 81.89102564102564%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 80
+Confusion Matrix Accuracy: 522/624 = 83.65384615384616%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 90
+Confusion Matrix Accuracy: 467/624 = 74.83974358974359%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 100
+Confusion Matrix Accuracy: 467/624 = 74.83974358974359%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 110
+Confusion Matrix Accuracy: 526/624 = 84.2948717948718%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 120
+Confusion Matrix Accuracy: 529/624 = 84.77564102564102%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 130
+Confusion Matrix Accuracy: 507/624 = 81.25%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 140
+Confusion Matrix Accuracy: 475/624 = 76.12179487179486%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 150
+Confusion Matrix Accuracy: 481/624 = 77.08333333333334%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 160
+Confusion Matrix Accuracy: 482/624 = 77.24358974358975%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 170
+Confusion Matrix Accuracy: 494/624 = 79.16666666666666%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 180
+Confusion Matrix Accuracy: 509/624 = 81.57051282051282%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 190
+Confusion Matrix Accuracy: 511/624 = 81.89102564102564%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 200
+Confusion Matrix Accuracy: 526/624 = 84.2948717948718%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 210
+Confusion Matrix Accuracy: 502/624 = 80.44871794871796%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 220
+Confusion Matrix Accuracy: 505/624 = 80.92948717948718%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 230
+Confusion Matrix Accuracy: 536/624 = 85.8974358974359%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 240
+Confusion Matrix Accuracy: 479/624 = 76.76282051282051%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 250
+Confusion Matrix Accuracy: 507/624 = 81.25%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 260
+Confusion Matrix Accuracy: 518/624 = 83.01282051282051%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 270
+Confusion Matrix Accuracy: 440/624 = 70.51282051282051%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 280
+Confusion Matrix Accuracy: 523/624 = 83.81410256410257%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 290
+Confusion Matrix Accuracy: 486/624 = 77.88461538461539%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 300
+Confusion Matrix Accuracy: 511/624 = 81.89102564102564%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 310
+Confusion Matrix Accuracy: 536/624 = 85.8974358974359%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 320
+Confusion Matrix Accuracy: 533/624 = 85.41666666666666%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 330
+Confusion Matrix Accuracy: 477/624 = 76.4423076923077%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 340
+Confusion Matrix Accuracy: 484/624 = 77.56410256410257%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 350
+Confusion Matrix Accuracy: 454/624 = 72.75641025641025%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 360
+Confusion Matrix Accuracy: 515/624 = 82.53205128205127%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 370
+Confusion Matrix Accuracy: 516/624 = 82.6923076923077%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 380
+Confusion Matrix Accuracy: 513/624 = 82.21153846153845%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 390
+Confusion Matrix Accuracy: 475/624 = 76.12179487179486%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 400
+Confusion Matrix Accuracy: 507/624 = 81.25%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 410
+Confusion Matrix Accuracy: 506/624 = 81.08974358974359%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 420
+Confusion Matrix Accuracy: 495/624 = 79.32692307692307%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 430
+Confusion Matrix Accuracy: 491/624 = 78.68589743589743%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 440
+Confusion Matrix Accuracy: 485/624 = 77.72435897435898%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 450
+Confusion Matrix Accuracy: 483/624 = 77.40384615384616%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 460
+Confusion Matrix Accuracy: 512/624 = 82.05128205128204%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 470
+Confusion Matrix Accuracy: 505/624 = 80.92948717948718%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 480
+Confusion Matrix Accuracy: 531/624 = 85.09615384615384%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 490
+Confusion Matrix Accuracy: 510/624 = 81.73076923076923%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 500
+Confusion Matrix Accuracy: 496/624 = 79.48717948717949%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 510
+Confusion Matrix Accuracy: 531/624 = 85.09615384615384%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 520
+Confusion Matrix Accuracy: 469/624 = 75.16025641025641%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 530
+Confusion Matrix Accuracy: 490/624 = 78.52564102564102%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 540
+Confusion Matrix Accuracy: 478/624 = 76.6025641025641%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 550
+Confusion Matrix Accuracy: 461/624 = 73.87820512820514%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 560
+Confusion Matrix Accuracy: 510/624 = 81.73076923076923%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 570
+Confusion Matrix Accuracy: 498/624 = 79.8076923076923%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 580
+Confusion Matrix Accuracy: 512/624 = 82.05128205128204%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 590
+Confusion Matrix Accuracy: 468/624 = 75.0%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 600
+Confusion Matrix Accuracy: 520/624 = 83.33333333333334%
+
+L1 = 150
+L2 = 610
+L3 = 500
+L4 = 320
+L5 = 60
+L6 = 610
+Confusion Matrix Accuracy: 525/624 = 84.13461538461539%
+

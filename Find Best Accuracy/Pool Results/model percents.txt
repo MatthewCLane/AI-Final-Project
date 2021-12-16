@@ -1,0 +1,486 @@
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P11P21_1_P_2
+Accuracy: 85.73717948717949%
+Sensitivity: 91.73553719008265%
+Specificity: 88.7434554973822%
+Positive Predictive Value: : 83.77358490566039%
+Negative Predictive Value: 94.42896935933148%
+Binary Accuracy: 90.7051282051282%
+Num Of False Positives: 25
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P11P21_2_P_2
+Accuracy: 85.09615384615384%
+Sensitivity: 93.80165289256198%
+Specificity: 89.79057591623037%
+Positive Predictive Value: : 85.33834586466166%
+Negative Predictive Value: 95.81005586592178%
+Binary Accuracy: 88.9423076923077%
+Num Of False Positives: 21
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P11P22_1_P_2
+Accuracy: 84.4551282051282%
+Sensitivity: 95.0413223140496%
+Specificity: 85.6020942408377%
+Positive Predictive Value: : 80.7017543859649%
+Negative Predictive Value: 96.46017699115043%
+Binary Accuracy: 90.38461538461539%
+Num Of False Positives: 21
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P11P22_2_P_2
+Accuracy: 86.21794871794873%
+Sensitivity: 93.80165289256198%
+Specificity: 90.83769633507853%
+Positive Predictive Value: : 86.64122137404581%
+Negative Predictive Value: 95.85635359116023%
+Binary Accuracy: 90.7051282051282%
+Num Of False Positives: 20
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P12P21_1_P_2
+Accuracy: 84.4551282051282%
+Sensitivity: 91.73553719008265%
+Specificity: 87.43455497382199%
+Positive Predictive Value: : 82.22222222222221%
+Negative Predictive Value: 94.35028248587571%
+Binary Accuracy: 89.90384615384616%
+Num Of False Positives: 27
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P12P21_2_P_2
+Accuracy: 86.69871794871796%
+Sensitivity: 95.86776859504133%
+Specificity: 90.0523560209424%
+Positive Predictive Value: : 85.92592592592592%
+Negative Predictive Value: 97.17514124293785%
+Binary Accuracy: 92.3076923076923%
+Num Of False Positives: 6
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P12P22_1_P_2
+Accuracy: 83.97435897435898%
+Sensitivity: 96.69421487603306%
+Specificity: 82.98429319371728%
+Positive Predictive Value: : 78.26086956521739%
+Negative Predictive Value: 97.53846153846155%
+Binary Accuracy: 91.66666666666666%
+Num Of False Positives: 11
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P12P22_2_P_2
+Accuracy: 85.73717948717949%
+Sensitivity: 93.80165289256198%
+Specificity: 90.31413612565446%
+Positive Predictive Value: : 85.98484848484848%
+Negative Predictive Value: 95.83333333333334%
+Binary Accuracy: 89.90384615384616%
+Num Of False Positives: 24
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P12P23_1_P_2
+Accuracy: 87.82051282051282%
+Sensitivity: 93.38842975206612%
+Specificity: 91.8848167539267%
+Positive Predictive Value: : 87.93774319066148%
+Negative Predictive Value: 95.64032697547684%
+Binary Accuracy: 91.98717948717949%
+Num Of False Positives: 22
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P12P23_2_P_2
+Accuracy: 85.25641025641025%
+Sensitivity: 93.38842975206612%
+Specificity: 87.95811518324608%
+Positive Predictive Value: : 83.08823529411765%
+Negative Predictive Value: 95.45454545454545%
+Binary Accuracy: 90.38461538461539%
+Num Of False Positives: 21
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P13P22_1_P_2
+Accuracy: 88.62179487179486%
+Sensitivity: 95.45454545454545%
+Specificity: 89.79057591623037%
+Positive Predictive Value: : 85.55555555555556%
+Negative Predictive Value: 96.89265536723164%
+Binary Accuracy: 94.71153846153845%
+Num Of False Positives: 10
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P13P22_2_P_2
+Accuracy: 89.26282051282051%
+Sensitivity: 96.28099173553719%
+Specificity: 91.62303664921467%
+Positive Predictive Value: : 87.9245283018868%
+Negative Predictive Value: 97.49303621169916%
+Binary Accuracy: 94.07051282051282%
+Num Of False Positives: 13
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P13P23_1_P_2
+Accuracy: 86.69871794871796%
+Sensitivity: 96.28099173553719%
+Specificity: 87.69633507853402%
+Positive Predictive Value: : 83.21428571428572%
+Negative Predictive Value: 97.38372093023256%
+Binary Accuracy: 92.62820512820514%
+Num Of False Positives: 13
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P13P23_2_P_2
+Accuracy: 87.33974358974359%
+Sensitivity: 96.28099173553719%
+Specificity: 91.62303664921467%
+Positive Predictive Value: : 87.9245283018868%
+Negative Predictive Value: 97.49303621169916%
+Binary Accuracy: 91.50641025641025%
+Num Of False Positives: 10
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P13P24_1_P_2
+Accuracy: 87.82051282051282%
+Sensitivity: 94.21487603305785%
+Specificity: 91.62303664921467%
+Positive Predictive Value: : 87.6923076923077%
+Negative Predictive Value: 96.15384615384616%
+Binary Accuracy: 92.46794871794873%
+Num Of False Positives: 22
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P13P24_2_P_2
+Accuracy: 85.8974358974359%
+Sensitivity: 92.97520661157024%
+Specificity: 92.67015706806284%
+Positive Predictive Value: : 88.93280632411067%
+Negative Predictive Value: 95.4177897574124%
+Binary Accuracy: 90.7051282051282%
+Num Of False Positives: 18
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P14P23_1_P_2
+Accuracy: 88.14102564102564%
+Sensitivity: 95.45454545454545%
+Specificity: 91.09947643979058%
+Positive Predictive Value: : 87.16981132075472%
+Negative Predictive Value: 96.93593314763231%
+Binary Accuracy: 92.46794871794873%
+Num Of False Positives: 21
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P14P23_2_P_2
+Accuracy: 88.78205128205127%
+Sensitivity: 93.38842975206612%
+Specificity: 92.14659685863874%
+Positive Predictive Value: : 88.28125%
+Negative Predictive Value: 95.65217391304348%
+Binary Accuracy: 94.71153846153845%
+Num Of False Positives: 7
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P14P24_1_P_2
+Accuracy: 86.21794871794873%
+Sensitivity: 95.86776859504133%
+Specificity: 89.52879581151832%
+Positive Predictive Value: : 85.29411764705883%
+Negative Predictive Value: 97.1590909090909%
+Binary Accuracy: 91.82692307692307%
+Num Of False Positives: 14
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P14P24_2_P_2
+Accuracy: 89.1025641025641%
+Sensitivity: 95.86776859504133%
+Specificity: 93.45549738219894%
+Positive Predictive Value: : 90.27237354085604%
+Negative Predictive Value: 97.27520435967303%
+Binary Accuracy: 92.78846153846155%
+Num Of False Positives: 15
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P14P25_1_P_2
+Accuracy: 88.30128205128204%
+Sensitivity: 92.97520661157024%
+Specificity: 92.93193717277487%
+Positive Predictive Value: : 89.28571428571429%
+Negative Predictive Value: 95.43010752688173%
+Binary Accuracy: 92.78846153846155%
+Num Of False Positives: 14
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P14P25_2_P_2
+Accuracy: 89.1025641025641%
+Sensitivity: 98.34710743801654%
+Specificity: 89.79057591623037%
+Positive Predictive Value: : 85.92057761732852%
+Negative Predictive Value: 98.84726224783861%
+Binary Accuracy: 93.42948717948718%
+Num Of False Positives: 11
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P15P24_1_P_2
+Accuracy: 87.5%
+Sensitivity: 94.62809917355372%
+Specificity: 89.79057591623037%
+Positive Predictive Value: : 85.44776119402985%
+Negative Predictive Value: 96.34831460674157%
+Binary Accuracy: 91.82692307692307%
+Num Of False Positives: 20
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P15P24_2_P_2
+Accuracy: 86.85897435897436%
+Sensitivity: 94.21487603305785%
+Specificity: 91.09947643979058%
+Positive Predictive Value: : 87.02290076335878%
+Negative Predictive Value: 96.13259668508287%
+Binary Accuracy: 91.34615384615384%
+Num Of False Positives: 27
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P15P25_1_P_2
+Accuracy: 86.53846153846155%
+Sensitivity: 92.56198347107438%
+Specificity: 90.57591623036649%
+Positive Predictive Value: : 86.15384615384616%
+Negative Predictive Value: 95.05494505494505%
+Binary Accuracy: 91.66666666666666%
+Num Of False Positives: 23
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P15P25_2_P_2
+Accuracy: 88.62179487179486%
+Sensitivity: 97.93388429752066%
+Specificity: 89.79057591623037%
+Positive Predictive Value: : 85.86956521739131%
+Negative Predictive Value: 98.5632183908046%
+Binary Accuracy: 94.23076923076923%
+Num Of False Positives: 5
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P15P26_1_P_2
+Accuracy: 88.9423076923077%
+Sensitivity: 95.0413223140496%
+Specificity: 93.45549738219894%
+Positive Predictive Value: : 90.19607843137256%
+Negative Predictive Value: 96.7479674796748%
+Binary Accuracy: 93.42948717948718%
+Num Of False Positives: 15
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P15P26_2_P_2
+Accuracy: 86.0576923076923%
+Sensitivity: 97.10743801652893%
+Specificity: 86.38743455497382%
+Positive Predictive Value: : 81.8815331010453%
+Negative Predictive Value: 97.92284866468842%
+Binary Accuracy: 92.1474358974359%
+Num Of False Positives: 14
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P16P25_1_P_2
+Accuracy: 87.33974358974359%
+Sensitivity: 92.97520661157024%
+Specificity: 91.62303664921467%
+Positive Predictive Value: : 87.54863813229572%
+Negative Predictive Value: 95.36784741144415%
+Binary Accuracy: 92.1474358974359%
+Num Of False Positives: 18
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P16P25_2_P_2
+Accuracy: 87.33974358974359%
+Sensitivity: 96.28099173553719%
+Specificity: 89.26701570680629%
+Positive Predictive Value: : 85.03649635036497%
+Negative Predictive Value: 97.42857142857143%
+Binary Accuracy: 92.46794871794873%
+Num Of False Positives: 9
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P16P26_1_P_2
+Accuracy: 86.0576923076923%
+Sensitivity: 91.73553719008265%
+Specificity: 90.31413612565446%
+Positive Predictive Value: : 85.71428571428571%
+Negative Predictive Value: 94.52054794520548%
+Binary Accuracy: 91.66666666666666%
+Num Of False Positives: 17
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P16P26_2_P_2
+Accuracy: 87.33974358974359%
+Sensitivity: 95.86776859504133%
+Specificity: 90.57591623036649%
+Positive Predictive Value: : 86.56716417910447%
+Negative Predictive Value: 97.19101123595506%
+Binary Accuracy: 92.3076923076923%
+Num Of False Positives: 20
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P16P27_1_P_2
+Accuracy: 88.14102564102564%
+Sensitivity: 95.86776859504133%
+Specificity: 90.31413612565446%
+Positive Predictive Value: : 86.2453531598513%
+Negative Predictive Value: 97.1830985915493%
+Binary Accuracy: 93.10897435897436%
+Num Of False Positives: 11
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P16P27_2_P_2
+Accuracy: 88.62179487179486%
+Sensitivity: 94.62809917355372%
+Specificity: 91.8848167539267%
+Positive Predictive Value: : 88.07692307692308%
+Negative Predictive Value: 96.42857142857143%
+Binary Accuracy: 92.94871794871796%
+Num Of False Positives: 16
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P17P26_1_P_2
+Accuracy: 88.14102564102564%
+Sensitivity: 95.86776859504133%
+Specificity: 90.31413612565446%
+Positive Predictive Value: : 86.2453531598513%
+Negative Predictive Value: 97.1830985915493%
+Binary Accuracy: 93.58974358974359%
+Num Of False Positives: 14
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P17P26_2_P_2
+Accuracy: 87.17948717948718%
+Sensitivity: 94.62809917355372%
+Specificity: 91.36125654450262%
+Positive Predictive Value: : 87.40458015267176%
+Negative Predictive Value: 96.40883977900553%
+Binary Accuracy: 92.3076923076923%
+Num Of False Positives: 13
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P17P27_1_P_2
+Accuracy: 87.33974358974359%
+Sensitivity: 92.56198347107438%
+Specificity: 91.09947643979058%
+Positive Predictive Value: : 86.82170542635659%
+Negative Predictive Value: 95.08196721311475%
+Binary Accuracy: 92.94871794871796%
+Num Of False Positives: 15
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P17P27_2_P_2
+Accuracy: 85.41666666666666%
+Sensitivity: 93.38842975206612%
+Specificity: 89.00523560209425%
+Positive Predictive Value: : 84.32835820895522%
+Negative Predictive Value: 95.50561797752809%
+Binary Accuracy: 90.86538461538461%
+Num Of False Positives: 18
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P17P28_1_P_2
+Accuracy: 87.33974358974359%
+Sensitivity: 90.9090909090909%
+Specificity: 92.93193717277487%
+Positive Predictive Value: : 89.06882591093117%
+Negative Predictive Value: 94.16445623342176%
+Binary Accuracy: 92.46794871794873%
+Num Of False Positives: 18
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P17P28_2_P_2
+Accuracy: 85.25641025641025%
+Sensitivity: 89.6694214876033%
+Specificity: 92.14659685863874%
+Positive Predictive Value: : 87.85425101214574%
+Negative Predictive Value: 93.36870026525199%
+Binary Accuracy: 91.18589743589743%
+Num Of False Positives: 25
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P18P27_1_P_2
+Accuracy: 87.98076923076923%
+Sensitivity: 95.0413223140496%
+Specificity: 92.14659685863874%
+Positive Predictive Value: : 88.46153846153845%
+Negative Predictive Value: 96.7032967032967%
+Binary Accuracy: 92.1474358974359%
+Num Of False Positives: 15
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P18P27_2_P_2
+Accuracy: 87.17948717948718%
+Sensitivity: 94.62809917355372%
+Specificity: 88.7434554973822%
+Positive Predictive Value: : 84.19117647058823%
+Negative Predictive Value: 96.30681818181817%
+Binary Accuracy: 94.07051282051282%
+Num Of False Positives: 8
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P18P28_1_P_2
+Accuracy: 88.78205128205127%
+Sensitivity: 97.52066115702479%
+Specificity: 90.0523560209424%
+Positive Predictive Value: : 86.13138686131386%
+Negative Predictive Value: 98.28571428571429%
+Binary Accuracy: 93.91025641025641%
+Num Of False Positives: 8
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P18P28_2_P_2
+Accuracy: 86.69871794871796%
+Sensitivity: 94.62809917355372%
+Specificity: 89.52879581151832%
+Positive Predictive Value: : 85.13011152416357%
+Negative Predictive Value: 96.3380281690141%
+Binary Accuracy: 92.46794871794873%
+Num Of False Positives: 16
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P18P29_1_P_2
+Accuracy: 85.57692307692307%
+Sensitivity: 92.97520661157024%
+Specificity: 90.0523560209424%
+Positive Predictive Value: : 85.55133079847909%
+Negative Predictive Value: 95.29085872576178%
+Binary Accuracy: 91.98717948717949%
+Num Of False Positives: 32
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P18P29_2_P_2 ***********************************
+Accuracy: 89.42307692307693%
+Sensitivity: 93.80165289256198%
+Specificity: 92.67015706806284%
+Positive Predictive Value: : 89.01960784313725%
+Negative Predictive Value: 95.9349593495935%
+Binary Accuracy: 94.87179487179486%
+Num Of False Positives: 9
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P19P28_1_P_2
+Accuracy: 88.62179487179486%
+Sensitivity: 95.86776859504133%
+Specificity: 91.09947643979058%
+Positive Predictive Value: : 87.21804511278195%
+Negative Predictive Value: 97.20670391061452%
+Binary Accuracy: 92.94871794871796%
+Num Of False Positives: 16
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P19P28_2_P_2
+Accuracy: 88.9423076923077%
+Sensitivity: 97.52066115702479%
+Specificity: 92.14659685863874%
+Positive Predictive Value: : 88.7218045112782%
+Negative Predictive Value: 98.32402234636871%
+Binary Accuracy: 92.62820512820514%
+Num Of False Positives: 14
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P19P29_1_P_2
+Accuracy: 87.17948717948718%
+Sensitivity: 97.52066115702479%
+Specificity: 87.69633507853402%
+Positive Predictive Value: : 83.3922261484099%
+Negative Predictive Value: 98.24046920821115%
+Binary Accuracy: 93.58974358974359%
+Num Of False Positives: 13
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P19P29_2_P_2
+Accuracy: 87.01923076923077%
+Sensitivity: 97.93388429752066%
+Specificity: 89.26701570680629%
+Positive Predictive Value: : 85.25179856115108%
+Negative Predictive Value: 98.55491329479769%
+Binary Accuracy: 92.78846153846155%
+Num Of False Positives: 12
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P19P210_1_P_2
+Accuracy: 86.0576923076923%
+Sensitivity: 94.62809917355372%
+Specificity: 89.52879581151832%
+Positive Predictive Value: : 85.13011152416357%
+Negative Predictive Value: 96.3380281690141%
+Binary Accuracy: 91.82692307692307%
+Num Of False Positives: 26
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P19P210_2_P_2
+Accuracy: 89.1025641025641%
+Sensitivity: 95.45454545454545%
+Specificity: 92.93193717277487%
+Positive Predictive Value: : 89.53488372093024%
+Negative Predictive Value: 96.99453551912568%
+Binary Accuracy: 93.58974358974359%
+Num Of False Positives: 13
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P110P29_1_P_2
+Accuracy: 88.14102564102564%
+Sensitivity: 95.86776859504133%
+Specificity: 92.14659685863874%
+Positive Predictive Value: : 88.54961832061069%
+Negative Predictive Value: 97.23756906077348%
+Binary Accuracy: 92.62820512820514%
+Num Of False Positives: 8
+
+Model: adamaxE12085.09BEST_L1N150L2N610_12_14K18K27P110P29_2_P_2
+Accuracy: 87.33974358974359%
+Sensitivity: 94.62809917355372%
+Specificity: 89.79057591623037%
+Positive Predictive Value: : 85.44776119402985%
+Negative Predictive Value: 96.34831460674157%
+Binary Accuracy: 93.10897435897436%
+Num Of False Positives: 16
