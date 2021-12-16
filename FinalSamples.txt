@@ -1,3 +1,7 @@
+#
+# NOTE THAT THE Accuracy ISN'T CORRECT
+#
+
 rotation_range: 0.1
 zoom_range: 0.1
 width_shift_range: 0.1
